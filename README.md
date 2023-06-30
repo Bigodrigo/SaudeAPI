@@ -8,10 +8,10 @@
 </p>
 
 The prototype of the Saúde App is currently accessible at:
-https://github.com/Bigodrigo/SaudeApp
+https://github.com/bigodrigo/SaudeApp
 
 On the website [Saúde Web](https://saude-web.vercel.app/) we can send messages to the application.
-The project explained is accessible at: https://github.com/Bigodrigo/SaudeWeb
+The project explained is accessible at: https://github.com/bigodrigo/SaudeWeb
 
 ## 🚀 Technologies
 
